@@ -29,7 +29,7 @@ Prize = React.createClass({
   render() {
 
     return (
-      <div className="col-md-4 prize">
+      <div className="col-md-4 col-lg-4 col-sm-12 col-xs-12 prize">
         <div className="panel panel-default" style={{height: 370+'px'}}>
           <div className="panel-heading">
             <h4>{this.props.title}</h4>
@@ -44,21 +44,21 @@ Prize = React.createClass({
                   this.renderPrizeItems()
                 }
               </ul>
-            {
-              this.props.info ?
-                <div className="info">
-                  <center>
-                    <h4>Additional Info</h4>
-                  </center>
-                  <div>{this.props.info}</div>
-                </div>
-              : ""
-            }
-
+              {
+                this.props.info ?
+                  <div className="info">
+                    <center>
+                      <h4>Additional Info</h4>
+                    </center>
+                    <div>{this.props.info}</div>
+                  </div>
+                : ""
+              }
+              { this.renderUrl() }
             </div>
             
           </div>
-          { this.renderUrl() }
+          
         </div>
       </div>
     )
