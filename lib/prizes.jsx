@@ -1,4 +1,4 @@
-var prizes = [
+const prizes = [
   {
     "title": "HackingEDU EDTech Champions",
     "prizes": [
@@ -99,7 +99,7 @@ var prizes = [
     "prizes": [
       "4 Myos for Top team"
     ],
-    "url": ""
+    "url": "https://developer.thalmic.com/"
   },
   {
     "title": "Best Use of Dolby",
@@ -145,28 +145,28 @@ var prizes = [
     "prizes": [
       "Keyboards for members of the team"
     ],
-    "url": ""
+    "url": "https://developers.braintreepayments.com/ios+ruby/"
   },
   {
     "title": "Design the Future of WikiHow",
     "prizes": [
       "Hosted lunch with the CEO of WikiHow"
     ],
-    "url": ""
+    "url": "https://www.mediawiki.org/wiki/API:Main_page"
   },
   {
     "title": "Best Use of Linode",
     "prizes": [
       "Raspberry Pi 2s for each team member"
     ],
-    "url": ""
+    "url": "https://www.linode.com/api"
   },,
   {
     "title": "Best Leap Motion Hack (2)",
     "prizes": [
       "Leap Motion for everyone on the top 2 Teams"
     ],
-    "url": ""
+    "url": "https://developer.leapmotion.com/documentation/python/devguide/Leap_Overview.html"
   },
   {
     "title": "Best Use of Twist",
@@ -180,14 +180,14 @@ var prizes = [
     "prizes": [
       "Wearable sleeping bag suit"
     ],
-    "url": ""
+    "url": "https://www.twilio.com/api"
   },
   {
     "title": "Best Collaboration Hack using Moxtra SDK/API",
     "prizes": [
       "$1000"
     ],
-    "url": ""
+    "url": "https://developer.moxtra.com/"
   },
   {
     "title": "Best Distracted Driver App",
