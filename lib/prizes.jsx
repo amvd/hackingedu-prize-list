@@ -59,7 +59,7 @@ prizesObject = [
   {
     "id": 5,
     "title": "Best use to the Wolfram Technologies",
-    "logo": "./public/logos/wolfram.png",
+    "logo": "/logos/wolfram.png",
     "prizes": [
       "TRIP TO NYC for top team to Present Hack at Ignite Disrupt Edtech Conference",
       "One year of Wolfram Programming Cloud Developer Level ",
@@ -71,7 +71,7 @@ prizesObject = [
   {
     "id": 6,
     "title": "#SocialGoodHack KPCB",
-    "logo": "./public/logos/.png",
+    "logo": "",
     "prizes": [
       "Finalist Position for KPCB Fellowship Position"
     ],
@@ -80,7 +80,7 @@ prizesObject = [
   {
     "id": 7,
     "title": "Best Use of IBM Bluemix",
-    "logo": "./public/logos/ibm.png",
+    "logo": "/logos/ibm.png",
     "prizes": [
       "$4000"
     ],
@@ -89,7 +89,7 @@ prizesObject = [
   {
     "id": 8,
     "title": "Best Use of Target API",
-    "logo": "./public/logos/target.png",
+    "logo": "/logos/target.png",
     "prizes": [
       "$4000"
     ],
@@ -98,7 +98,7 @@ prizesObject = [
   {
     "id": 9,
     "title": "NameCheap Best Domain Main Prize",
-    "logo": "./public/logos/namecheap.png",
+    "logo": "/logos/namecheap.png",
     "prizes": [
       "$150 of Namecheap credits"
     ],
@@ -108,7 +108,7 @@ prizesObject = [
   {
     "id": 10,
     "title": "Coolest Pebble Hack! (2)",
-    "logo": "./public/logos/pebble.png",
+    "logo": "/logos/pebble.png",
     "prizes": [
       "Pebble Times for top 2 teams"
     ],
@@ -117,7 +117,7 @@ prizesObject = [
   {
     "id": 11,
     "title": "#bestuseofMYO",
-    "logo": "./public/logos/thalmic.png",
+    "logo": "/logos/thalmic.png",
     "prizes": [
       "4 Myos for Top team"
     ],
@@ -126,7 +126,7 @@ prizesObject = [
   {
     "id": 12,
     "title": "Best Use of Dolby",
-    "logo": "./public/logos/dolby.png",
+    "logo": "/logos/dolby.png",
     "prizes": [
       "Sennheiser Game One headsets (for each team member)"
     ],
@@ -145,7 +145,7 @@ prizesObject = [
   {
     "id": 14,
     "title": "Automattic Social Good Prize",
-    "logo": "./public/logos/automattic.png",
+    "logo": "/logos/automattic.png",
     "prizes": [
       "Apple Watches for the Team"
     ],
@@ -154,7 +154,7 @@ prizesObject = [
   {
     "id": 15,
     "title": "Best use of Clusterpoint",
-    "logo": "./public/logos/clusterpoint.png",
+    "logo": "/logos/clusterpoint.png",
     "prizes": [
       "$5000"
     ],
@@ -164,7 +164,7 @@ prizesObject = [
   {
     "id": 16,
     "title": "Rubicon:Bring your Javascript, app development and big data experience and automate advertising",
-    "logo": "./public/logos/rubicon.png",
+    "logo": "/logos/rubicon.png",
     "prizes": [
       "First Prize: $1,000 Amazon Gift Card+Interview with Rubicon Project ",
       "Second Prize: $500 Amazon Gift Card+Interview with Rubicon Project", 
@@ -175,7 +175,7 @@ prizesObject = [
   {
     "id": 17,
     "title": "Best use of Braintree API",
-    "logo": "./public/logos/braintree.png",
+    "logo": "/logos/braintree.png",
     "prizes": [
       "Keyboards for members of the team"
     ],
@@ -184,7 +184,7 @@ prizesObject = [
   {
     "id": 18,
     "title": "Design the Future of WikiHow",
-    "logo": "./public/logos/wikihow.png",
+    "logo": "/logos/wikihow.png",
     "prizes": [
       "Hosted lunch with the CEO of WikiHow"
     ],
@@ -193,7 +193,7 @@ prizesObject = [
   {
     "id": 19,
     "title": "Best Use of Linode",
-    "logo": "./public/logos/linode.png",
+    "logo": "/logos/linode.png",
     "prizes": [
       "Raspberry Pi 2s for each team member"
     ],
@@ -202,7 +202,7 @@ prizesObject = [
   {
     "id": 20,
     "title": "Best Leap Motion Hack (2)",
-    "logo": "./public/logos/leap.png",
+    "logo": "/logos/leap.png",
     "prizes": [
       "Leap Motion for everyone on the top 2 Teams"
     ],
@@ -220,7 +220,7 @@ prizesObject = [
   {
     "id": 22,
     "title": "Best use of Twilio API",
-    "logo": "./public/logos/twilio.png",
+    "logo": "/logos/twilio.png",
     "prizes": [
       "Wearable sleeping bag suit"
     ],
@@ -229,7 +229,7 @@ prizesObject = [
   {
     "id": 23,
     "title": "Best Collaboration Hack using Moxtra SDK/API",
-    "logo": "./public/logos/moxtra.png",
+    "logo": "/logos/moxtra.png",
     "prizes": [
       "$1000"
     ],

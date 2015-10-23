@@ -3,6 +3,14 @@ App = React.createClass({
     return prizesObject;
   },
 
+  componentDidMount(){
+    // grid = document.querySelector('.prize-list');
+    // msnry = new Masonry(grid, {
+    //   itemSelector: '.prize',
+    //   columnWidth: 200
+    // });
+  },
+
   renderPrizes(){
     return this.getPrizes().map((prize) => {
       return <Prize
@@ -16,13 +24,12 @@ App = React.createClass({
   },
 
   render() {
+
     return (
       <div className="container">
-        <header>
-          <h1>Prize List</h1>
-        </header>
-
-        <div className="prize-list">
+        <br />
+        <br />
+        <div className="prize-list"> 
           {this.renderPrizes()}
         </div>
       </div>
