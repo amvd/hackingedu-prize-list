@@ -1,5 +1,6 @@
-const prizes = [
+const prizesObject = [
   {
+    "id": 1,
     "title": "HackingEDU EDTech Champions",
     "prizes": [
       "500 Startups Interview",
@@ -12,6 +13,7 @@ const prizes = [
     "url": ""
   },
   {
+    "id": 2,
     "title": "HackingEDU 2nd Place Winner",
     "prizes": [
       "Interview and dinner with GSV Labs Staff ",
@@ -25,6 +27,7 @@ const prizes = [
     "url": ""
   },
   {
+    "id": 3,
     "title": "HackingEDU 3rd Place Runner up Prize",
     "prizes": [
       "Interview with Draper University",
@@ -39,6 +42,7 @@ const prizes = [
     "url": ""
   },
   {
+    "id": 4,
     "title": "Best use of Chegg API",
     "prizes": [
       "Up to $5000 of Chegg Services in total, which includes:",
@@ -49,6 +53,7 @@ const prizes = [
     "url": ""
   },
   {
+    "id": 5,
     "title": "Best use to the Wolfram Technologies",
     "prizes": [
       "TRIP TO NYC for top team to Present Hack at Ignite Disrupt Edtech Conference",
@@ -59,6 +64,7 @@ const prizes = [
     "url": "http://products.wolframalpha.com/api/"
   },
   {
+    "id": 6,
     "title": "#SocialGoodHack KPCB",
     "prizes": [
       "Finalist Position for KPCB Fellowship Position"
@@ -66,6 +72,7 @@ const prizes = [
     "url": ""
   },
   {
+    "id": 7,
     "title": "Best Use of IBM Bluemix",
     "prizes": [
       "$4000"
@@ -73,6 +80,7 @@ const prizes = [
     "url": "https://www.ng.bluemix.net/docs/"
   },
   {
+    "id": 8,
     "title": "Best Use of Target API",
     "prizes": [
       "$4000"
@@ -80,6 +88,7 @@ const prizes = [
     "url": "https://dev.target.com/"
   },
   {
+    "id": 9,
     "title": "NameCheap Best Domain Main Prize",
     "prizes": [
       "$150 of Namecheap credits"
@@ -88,6 +97,7 @@ const prizes = [
     "url": "https://www.namecheap.com/support/api/intro.aspx"
   },
   {
+    "id": 10,
     "title": "Coolest Pebble Hack! (2)",
     "prizes": [
       "Pebble Times for top 2 teams"
@@ -95,6 +105,7 @@ const prizes = [
     "url": "http://developer.getpebble.com/"
   },
   {
+    "id": 11,
     "title": "#bestuseofMYO",
     "prizes": [
       "4 Myos for Top team"
@@ -102,6 +113,7 @@ const prizes = [
     "url": "https://developer.thalmic.com/"
   },
   {
+    "id": 12,
     "title": "Best Use of Dolby",
     "prizes": [
       "Sennheiser Game One headsets (for each team member)"
@@ -110,6 +122,7 @@ const prizes = [
     "url": "http://developer.dolby.com/"
   },
   {
+    "id": 13,
     "title": "GlobalCommit: Social Good Award",
     "prizes": [
       "$100 gift cards (google play, itunes)"
@@ -117,6 +130,7 @@ const prizes = [
     "url": ""
   },
   {
+    "id": 14,
     "title": "Automattic Social Good Prize",
     "prizes": [
       "Apple Watches for the Team"
@@ -124,6 +138,7 @@ const prizes = [
     "url": "https://automattic.com/code/widgets/api/"
   },
   {
+    "id": 15,
     "title": "Best use of Clusterpoint",
     "prizes": [
       "$5000"
@@ -132,6 +147,7 @@ const prizes = [
     "url": "http://docs.clusterpoint.com/wiki/Main_Page"
   },
   {
+    "id": 16,
     "title": "Rubicon:Bring your Javascript, app development and big data experience and automate advertising",
     "prizes": [
       "First Prize: $1,000 Amazon Gift Card+Interview with Rubicon Project ",
@@ -141,6 +157,7 @@ const prizes = [
     "url": "http://dev.rubiconproject.com/"
   },
   {
+    "id": 17,
     "title": "Best use of Braintree API",
     "prizes": [
       "Keyboards for members of the team"
@@ -148,6 +165,7 @@ const prizes = [
     "url": "https://developers.braintreepayments.com/ios+ruby/"
   },
   {
+    "id": 18,
     "title": "Design the Future of WikiHow",
     "prizes": [
       "Hosted lunch with the CEO of WikiHow"
@@ -155,6 +173,7 @@ const prizes = [
     "url": "https://www.mediawiki.org/wiki/API:Main_page"
   },
   {
+    "id": 19,
     "title": "Best Use of Linode",
     "prizes": [
       "Raspberry Pi 2s for each team member"
@@ -162,6 +181,7 @@ const prizes = [
     "url": "https://www.linode.com/api"
   },,
   {
+    "id": 20,
     "title": "Best Leap Motion Hack (2)",
     "prizes": [
       "Leap Motion for everyone on the top 2 Teams"
@@ -169,6 +189,7 @@ const prizes = [
     "url": "https://developer.leapmotion.com/documentation/python/devguide/Leap_Overview.html"
   },
   {
+    "id": 21,
     "title": "Best Use of Twist",
     "prizes": [
       "$500"
@@ -176,6 +197,7 @@ const prizes = [
     "url": ""
   },
   {
+    "id": 22,
     "title": "Best use of Twilio API",
     "prizes": [
       "Wearable sleeping bag suit"
@@ -183,6 +205,7 @@ const prizes = [
     "url": "https://www.twilio.com/api"
   },
   {
+    "id": 23,
     "title": "Best Collaboration Hack using Moxtra SDK/API",
     "prizes": [
       "$1000"
@@ -190,6 +213,7 @@ const prizes = [
     "url": "https://developer.moxtra.com/"
   },
   {
+    "id": 24,
     "title": "Best Distracted Driver App",
     "prizes": [
       "$50 Gift Cards"
