@@ -1,7 +1,8 @@
-const prizesObject = [
+prizesObject = [
   {
     "id": 1,
     "title": "HackingEDU EDTech Champions",
+    "logo": "",
     "prizes": [
       "500 Startups Interview",
       "ATT Aspire Accelerator in person interview",
@@ -15,6 +16,7 @@ const prizesObject = [
   {
     "id": 2,
     "title": "HackingEDU 2nd Place Winner",
+    "logo": "",
     "prizes": [
       "Interview and dinner with GSV Labs Staff ",
       "Interview with Learn Capital",
@@ -29,6 +31,7 @@ const prizesObject = [
   {
     "id": 3,
     "title": "HackingEDU 3rd Place Runner up Prize",
+    "logo": "",
     "prizes": [
       "Interview with Draper University",
       "Dinner with MakeSchool Founders",
@@ -44,6 +47,7 @@ const prizesObject = [
   {
     "id": 4,
     "title": "Best use of Chegg API",
+    "logo": "",
     "prizes": [
       "Up to $5000 of Chegg Services in total, which includes:",
       "1 Year free Chegg Textbooks",
@@ -55,6 +59,7 @@ const prizesObject = [
   {
     "id": 5,
     "title": "Best use to the Wolfram Technologies",
+    "logo": "./public/logos/wolfram.png",
     "prizes": [
       "TRIP TO NYC for top team to Present Hack at Ignite Disrupt Edtech Conference",
       "One year of Wolfram Programming Cloud Developer Level ",
@@ -66,6 +71,7 @@ const prizesObject = [
   {
     "id": 6,
     "title": "#SocialGoodHack KPCB",
+    "logo": "./public/logos/.png",
     "prizes": [
       "Finalist Position for KPCB Fellowship Position"
     ],
@@ -74,6 +80,7 @@ const prizesObject = [
   {
     "id": 7,
     "title": "Best Use of IBM Bluemix",
+    "logo": "./public/logos/ibm.png",
     "prizes": [
       "$4000"
     ],
@@ -82,6 +89,7 @@ const prizesObject = [
   {
     "id": 8,
     "title": "Best Use of Target API",
+    "logo": "./public/logos/target.png",
     "prizes": [
       "$4000"
     ],
@@ -90,15 +98,17 @@ const prizesObject = [
   {
     "id": 9,
     "title": "NameCheap Best Domain Main Prize",
+    "logo": "./public/logos/namecheap.png",
     "prizes": [
       "$150 of Namecheap credits"
     ],
-    "info": "Creativity & authenticity of domain name"
+    "info": "Creativity & authenticity of domain name",
     "url": "https://www.namecheap.com/support/api/intro.aspx"
   },
   {
     "id": 10,
     "title": "Coolest Pebble Hack! (2)",
+    "logo": "./public/logos/pebble.png",
     "prizes": [
       "Pebble Times for top 2 teams"
     ],
@@ -107,6 +117,7 @@ const prizesObject = [
   {
     "id": 11,
     "title": "#bestuseofMYO",
+    "logo": "./public/logos/thalmic.png",
     "prizes": [
       "4 Myos for Top team"
     ],
@@ -115,15 +126,17 @@ const prizesObject = [
   {
     "id": 12,
     "title": "Best Use of Dolby",
+    "logo": "./public/logos/dolby.png",
     "prizes": [
       "Sennheiser Game One headsets (for each team member)"
     ],
-    "info": "Usage of our technology (based on usefulness and creativity)"
+    "info": "Usage of our technology (based on usefulness and creativity)",
     "url": "http://developer.dolby.com/"
   },
   {
     "id": 13,
     "title": "GlobalCommit: Social Good Award",
+    "logo": "",
     "prizes": [
       "$100 gift cards (google play, itunes)"
     ],
@@ -132,6 +145,7 @@ const prizesObject = [
   {
     "id": 14,
     "title": "Automattic Social Good Prize",
+    "logo": "./public/logos/automattic.png",
     "prizes": [
       "Apple Watches for the Team"
     ],
@@ -140,6 +154,7 @@ const prizesObject = [
   {
     "id": 15,
     "title": "Best use of Clusterpoint",
+    "logo": "./public/logos/clusterpoint.png",
     "prizes": [
       "$5000"
     ],
@@ -149,6 +164,7 @@ const prizesObject = [
   {
     "id": 16,
     "title": "Rubicon:Bring your Javascript, app development and big data experience and automate advertising",
+    "logo": "./public/logos/rubicon.png",
     "prizes": [
       "First Prize: $1,000 Amazon Gift Card+Interview with Rubicon Project ",
       "Second Prize: $500 Amazon Gift Card+Interview with Rubicon Project", 
@@ -159,6 +175,7 @@ const prizesObject = [
   {
     "id": 17,
     "title": "Best use of Braintree API",
+    "logo": "./public/logos/braintree.png",
     "prizes": [
       "Keyboards for members of the team"
     ],
@@ -167,6 +184,7 @@ const prizesObject = [
   {
     "id": 18,
     "title": "Design the Future of WikiHow",
+    "logo": "./public/logos/wikihow.png",
     "prizes": [
       "Hosted lunch with the CEO of WikiHow"
     ],
@@ -175,6 +193,7 @@ const prizesObject = [
   {
     "id": 19,
     "title": "Best Use of Linode",
+    "logo": "./public/logos/linode.png",
     "prizes": [
       "Raspberry Pi 2s for each team member"
     ],
@@ -183,6 +202,7 @@ const prizesObject = [
   {
     "id": 20,
     "title": "Best Leap Motion Hack (2)",
+    "logo": "./public/logos/leap.png",
     "prizes": [
       "Leap Motion for everyone on the top 2 Teams"
     ],
@@ -191,6 +211,7 @@ const prizesObject = [
   {
     "id": 21,
     "title": "Best Use of Twist",
+    "logo": "",
     "prizes": [
       "$500"
     ],
@@ -199,6 +220,7 @@ const prizesObject = [
   {
     "id": 22,
     "title": "Best use of Twilio API",
+    "logo": "./public/logos/twilio.png",
     "prizes": [
       "Wearable sleeping bag suit"
     ],
@@ -207,6 +229,7 @@ const prizesObject = [
   {
     "id": 23,
     "title": "Best Collaboration Hack using Moxtra SDK/API",
+    "logo": "./public/logos/moxtra.png",
     "prizes": [
       "$1000"
     ],
@@ -215,6 +238,7 @@ const prizesObject = [
   {
     "id": 24,
     "title": "Best Distracted Driver App",
+    "logo": "",
     "prizes": [
       "$50 Gift Cards"
     ],
